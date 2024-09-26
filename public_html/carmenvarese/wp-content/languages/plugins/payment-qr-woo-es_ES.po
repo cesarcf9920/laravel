@@ -1,0 +1,45 @@
+# Translation of Plugins - Payment QR WooCommerce - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Payment QR WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-09 04:57:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Payment QR WooCommerce - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/payment-qr-woo/"
+msgstr "https://es.wordpress.org/plugins/payment-qr-woo/"
+
+#. Description of the plugin
+msgid "Add-on for WooCommerce, a payment method to make payments using QR code."
+msgstr "Extensión para WooCommerce, un método de pago para hacer los pagos usando un código QR."
+
+#. Plugin Name of the plugin
+#: payment-qr-woo.php:51 payment-qr-woo.php:90
+msgid "Payment QR WooCommerce"
+msgstr "Payment QR WooCommerce"
+
+#. Author of the plugin
+msgid "Miguel Fuentes"
+msgstr "Miguel Fuentes"
+
+#. Author URI of the plugin
+msgid "https://kodewp.com/"
+msgstr "https://kodewp.com/"
+
+#: functions.php:144 functions.php:146
+msgid "QR Code Payment Receipt"
+msgstr "Código QR del recibo de pago"
+
+#: payment-qr-woo.php:114
+msgid "Popup description"
+msgstr "Mensaje emergente de la descripción"
+
+#: payment-qr-woo.php:298
+msgid "Awaiting offline payment"
+msgstr "Esperando el pago offline"
